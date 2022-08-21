@@ -31,7 +31,7 @@ Setup
 
 Clone this repository with:
 
-  - `git clone https://github.com/j1mc/ansible-silverblue.git`
+  - `git clone https://github.com/ParadoxialN3/ansible-silverblue-para.git --depth=1`
 
 Install needed dependencies with:
 
